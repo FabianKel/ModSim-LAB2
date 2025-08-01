@@ -1,4 +1,4 @@
-# **Laboratorio 2**
+# **Laboratorio**
 ### **Modelación y Simulación**
 ### **Sección 20**
 
